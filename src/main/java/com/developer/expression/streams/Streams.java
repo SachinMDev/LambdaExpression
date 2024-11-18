@@ -12,4 +12,8 @@ public class Streams {
 	public void secondExpression() {
 		System.out.println("This is my second expression");
 	}
+	
+	public void thirdExpression() {
+		System.out.println("This is my third expression");
+	}
 }
